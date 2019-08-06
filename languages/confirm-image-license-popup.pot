@@ -1,0 +1,55 @@
+# Copyright (C) 2019 Confirm Image License Popup
+# This file is distributed under the same license as the Confirm Image License Popup package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Confirm Image License Popup 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/confirm-image-"
+"license-popup\n"
+"POT-Creation-Date: 2019-08-06 19:37:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: confirm-image-license-popup.php:33
+msgid ""
+"Unconfirmed action: You must confirm the licensing allows publishing this "
+"file in our platform."
+msgstr ""
+
+#: confirm-image-license-popup.php:53
+msgid ""
+"Are you sure you want to upload this file? By continuing you agree that "
+"licensing of the file allows public sharing on our platform."
+msgstr ""
+
+#: confirm-image-license-popup.php:54
+msgid "Continue"
+msgstr ""
+
+#: confirm-image-license-popup.php:55
+msgid ""
+"I confirm the images I upload are copyright free and i have the full rights "
+"to use them."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Confirm Image License Popup"
+msgstr ""
+
+#. #-#-#-#-#  confirm-image-license-popup.pot (Confirm Image License Popup 0.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  confirm-image-license-popup.pot (Confirm Image License Popup 0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.elhardoum.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Confirm Image License Popup for Multisite."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Samuel Elh"
+msgstr ""

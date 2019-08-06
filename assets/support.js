@@ -1,0 +1,1 @@
+(window._asyncSupport = true), async () => {}
